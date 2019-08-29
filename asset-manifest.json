@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.4b90446a.css",
   "main.css.map": "static/css/main.4b90446a.css.map",
-  "main.js": "static/js/main.e5b56506.js",
-  "main.js.map": "static/js/main.e5b56506.js.map",
+  "main.js": "static/js/main.fa1a0b28.js",
+  "main.js.map": "static/js/main.fa1a0b28.js.map",
   "static\\media\\BVP-logo.png": "static/media/BVP-logo.d0bf88b2.png",
   "static\\media\\Brock_logo.png": "static/media/Brock_logo.b96eb3af.png",
   "static\\media\\GitHub-Logo.png": "static/media/GitHub-Logo.fc6ad95c.png",
@@ -12,6 +12,7 @@
   "static\\media\\PS-logo.png": "static/media/PS-logo.aeea952a.png",
   "static\\media\\calc.jpg": "static/media/calc.fbc54991.jpg",
   "static\\media\\general.scss": "static/media/general.8f0216a8.scss",
+  "static\\media\\linkedin.jpeg": "static/media/linkedin.958818e3.jpeg",
   "static\\media\\moonphase.PNG": "static/media/moonphase.31017c26.PNG",
   "static\\media\\nav-icon-code-white.png": "static/media/nav-icon-code-white.fd129cf2.png",
   "static\\media\\nav-icon-grad-cap-white.png": "static/media/nav-icon-grad-cap-white.3e0067d4.png",
@@ -19,6 +20,5 @@
   "static\\media\\php-mysql.png": "static/media/php-mysql.97df3059.png",
   "static\\media\\pokemon.png": "static/media/pokemon.aae51ce6.png",
   "static\\media\\react.png": "static/media/react.580ffd26.png",
-  "static\\media\\self-image-rotated.jpeg": "static/media/self-image-rotated.9ee4315d.jpeg",
   "static\\media\\udemy-logo.png": "static/media/udemy-logo.a1f41458.png"
 }
